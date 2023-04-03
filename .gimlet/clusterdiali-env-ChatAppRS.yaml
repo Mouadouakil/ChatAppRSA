@@ -1,0 +1,11 @@
+app: ChatAppRS
+env: clusterdiali-env
+namespace: default
+chart:
+  repository: https://chart.onechart.dev
+  name: onechart
+  version: 0.41.0
+values: {}
+strategicMergePatches: ""
+json6902Patches: []
+manifests: ""
